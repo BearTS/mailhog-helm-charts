@@ -125,3 +125,4 @@ Parameter | Description | Default
  This allows to configure specific `pathType` configurations, e.g. `pathType: ImplementationSpecific` for [GKE Ingress on Google Cloud Platform](https://cloud.google.com/kubernetes-engine/docs/concepts/ingress#default_backend).
 # test
 # test
+# test
