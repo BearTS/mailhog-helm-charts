@@ -1,5 +1,5 @@
 image:
-  repository: docker.io/mailhog/mailhog
+  repository: docker.io/anatomicjc/mailhog
   tag: ""
   pullPolicy: IfNotPresent
 
