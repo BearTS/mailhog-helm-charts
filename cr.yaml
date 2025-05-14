@@ -1,0 +1,4 @@
+owner: bearts
+repo: mailhog-helm-charts
+charts_dir: charts
+release_name_template: "{{ .Name }}-{{ .Version }}"
